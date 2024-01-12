@@ -3,10 +3,6 @@
 
 using namespace std;
 
-int Date[] = { 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 };
-int LeapDate[] = { 31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 };
-int Month = 12;
-
 class Drob   //Task1
 {
 	int numerator;
